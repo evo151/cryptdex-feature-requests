@@ -1,0 +1,3 @@
+As a user, I would like CryptDexBot to be able to filter out signals by some minimum threshold of increase over its daily average volume.
+For example, a signal looks like "BTC-XXX is trading at YYY% its daily average volume on Binance."
+A nice feature would be "/filter BTC-XXX YYY>500" or "/filter-all YYY>500" so that the frequency of signals is lower and only shows the highest increases in volume
